@@ -8,9 +8,9 @@ html {
 
 .container {
     display: flex;
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
-    /* border: 1px solid red; */
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 1px solid red;
     align-items: center;
     justify-content: center;
     position: relative;
